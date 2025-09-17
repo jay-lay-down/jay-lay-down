@@ -51,7 +51,7 @@ OpenAI API + HuggingFace + QLoRA 적용, **개인 말투 챗봇 개발**
 ---
 
 ### 📊 수요 예측
-가전시장 매출액, Brand Mind Share% 등 다양한 수요 예측을 통한 전략 수립 **수요예측 모델링**
+다양한 지표를 활용하여 향후 가전시장 수요, Brand Mind Share% 예측 정확도 제고
 
 <p align="center">
   <a href="https://github.com/...">
