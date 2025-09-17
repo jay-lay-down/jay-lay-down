@@ -34,11 +34,11 @@
 ---
 <h2 align="center">📌 프로젝트 하이라이트</h2>
 
-<table align="center" width="100%" style="border-collapse:separate; border-spacing:12px;">
+<table align="center" width="100%" style="border-collapse:separate;border-spacing:12px;">
   <tr>
     <!-- 1: AI/LLM -->
     <td width="25%" valign="top">
-      <div style="border:1px solid #e5e7eb; border-radius:12px; padding:14px;">
+      <div style="border:1px solid #e5e7eb;border-radius:12px;padding:14px;">
         <b>🤖 AI/LLM 기반 분석 챗봇</b><br/>
         <sub>OpenAI API + HuggingFace + QLoRA 적용,<br/>개인 말투 챗봇</sub>
         <div style="margin-top:10px;">
@@ -51,7 +51,7 @@
 
     <!-- 2: Bayesian -->
     <td width="25%" valign="top">
-      <div style="border:1px solid #e5e7eb; border-radius:12px; padding:14px;">
+      <div style="border:1px solid #e5e7eb;border-radius:12px;padding:14px;">
         <b>📊 Bayesian 모델링 & 대시보드</b><br/>
         <sub>설문 보완 + 브랜드 가치 평가,<br/>SNR·Lift 퍼널 차트</sub>
         <div style="margin-top:10px;">
@@ -67,7 +67,7 @@
 
     <!-- 3: DT -->
     <td width="25%" valign="top">
-      <div style="border:1px solid #e5e7eb; border-radius:12px; padding:14px;">
+      <div style="border:1px solid #e5e7eb;border-radius:12px;padding:14px;">
         <b>🌐 정성+정량 데이터 융합 + 디지털 트윈</b><br/>
         <sub>소셜 + 조사 데이터 결합,<br/>디지털 트윈 인사이트/대시보드</sub>
         <div style="margin-top:10px;">
@@ -83,7 +83,7 @@
 
     <!-- 4: Brand Power -->
     <td width="25%" valign="top">
-      <div style="border:1px solid #e5e7eb; border-radius:12px; padding:14px;">
+      <div style="border:1px solid #e5e7eb;border-radius:12px;padding:14px;">
         <b>📈 브랜드 파워 영향 요인 분석</b><br/>
         <sub>SEM + 동적 회귀 기반 Path 분석,<br/>클라이언트 전략 제안</sub>
         <div style="margin-top:10px;">
@@ -98,4 +98,5 @@
     </td>
   </tr>
 </table>
+
 
