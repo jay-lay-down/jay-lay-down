@@ -3,7 +3,7 @@
 <p align="center">
   <img src="images/avatar.jpg" width="180" style="border-radius:50%"><br/><br/>
   데이터 분석과 AI/LLM을 융합해 <b>정성+정량 데이터를 결합</b>하고,<br/>
-  비즈니스 의사결정으로 이어지는 <b>실질적 인사이트</b>를 만드는 분석가입니다.
+  비즈니스 의사결정으로 이어지는 <b>실질적 인사이트</b>를 만드는 8년차 분석가입니다.
 </p>
 
 ---
@@ -33,26 +33,59 @@
 
 <h2 align="center">📌 프로젝트 하이라이트</h2>
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <b>🤖 AI/LLM 기반 분석 챗봇</b><br/>
-      <sub>OpenAI API + HuggingFace + QLoRA 적용,<br/>개인 말투 챗봇 개발</sub><br/>
-      <a href="https://github.com/...">🔗 Repo</a> • <a href="https://...">📝 Blog</a>
-    </td>
-    <td align="center" width="50%">
-      <b>📊 시계열 수요예측 모델링(SARIMAX/ML)</b><br/>
-      <sub>POS 데이터를 통해 향후 수요예측/구매주기 예측을 통해 전략 수립에 도움</sub><br/>
-      <sub>Brand Share%의 경우 fine tuning을 통해 naive 모델 대비 오차 평균 50% 가량 감소</sub><br/>
-      <a href="https://github.com/...">🔗 Repo</a> • <a href="https://...">📈 Demo</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <b>🌐 정성+정량 데이터 융합 + Hierarchical Bayesian 분석 및 대시보드 구축 </b><br/>
-      <sub>소셜 데이터 + 조사 데이터 결합,<br/>디지털 트윈 기반 인사이트 및 대시보드 구축</sub><br/>
-      <sub>설문 데이터 보완 + 브랜드 가치 평가,<br/>SNR·Lift 퍼널 차트 시각화</sub><br/>
-      <a href="https://github.com/...">🔗 Repo</a> • <a href="https://...">📊 Dashboard</a>
-    </td>
-  </tr>
-</table>
+---
+
+### 🤖 AI/LLM 기반 분석 챗봇
+OpenAI API + HuggingFace + QLoRA 적용, **개인 말투 챗봇 개발**
+
+<p align="center">
+  <a href="https://github.com/...">
+    <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://...">
+    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=ghost&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 📊 Bayesian 모델링 & 대시보드
+설문 데이터 보완 + 브랜드 가치 평가, **SNR·Lift 퍼널 차트 시각화**
+
+<p align="center">
+  <a href="https://github.com/...">
+    <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://...">
+    <img src="https://img.shields.io/badge/Dashboard-1F77B4?style=for-the-badge&logo=plotly&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🌐 정성+정량 데이터 융합 + 디지털 트윈
+소셜 데이터 + 조사 데이터 결합, **디지털 트윈 기반 인사이트 및 대시보드 구축**
+
+<p align="center">
+  <a href="https://github.com/...">
+    <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://...">
+    <img src="https://img.shields.io/badge/Dashboard-4B5563?style=for-the-badge&logo=tableau&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 📈 브랜드 파워 영향 요인 분석
+SEM(구조방정식) + 동적 회귀 기반, **성과 Path 분석 & 전략 제안**
+
+<p align="center">
+  <a href="https://github.com/...">
+    <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://...">
+    <img src="https://img.shields.io/badge/Slides-0A66C2?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" />
+  </a>
+</p>
+
