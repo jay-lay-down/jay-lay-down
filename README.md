@@ -1,7 +1,7 @@
 ## 👋 Hi There!
 
 <p align="center">
-  <img src="images/avatar.jpg" width="180" style="border-radius:50%"><br/><br/>
+  <img src="images/avatar.jpg" width="180" style="border-radius:50%"](https://images.unsplash.com/photo-1584949091598-c31daaaa4aa9?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D><br/><br/>
   데이터 분석과 AI/LLM을 융합해 <b>정성+정량 데이터를 결합</b>하고,<br/>
   비즈니스 의사결정으로 이어지는 <b>실질적 인사이트</b>를 만드는 분석가입니다.
 </p>
