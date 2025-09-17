@@ -35,58 +35,52 @@
 
 <table align="center">
   <tr>
-    <td><b>🤖 AI/LLM 기반 분석 챗봇</b><br/>
-      <sub>OpenAI API + HuggingFace + QLoRA 적용, 개인 말투 챗봇</sub>
-    </td>
-    <td>
-      <a href="https://github.com/your-repo-AI-LLM">
+    <!-- 프로젝트 1 -->
+    <td align="center" width="50%">
+      <b>🤖 AI/LLM 기반 분석 챗봇</b><br/>
+      <sub>OpenAI API + HuggingFace + QLoRA 적용,<br/>개인 말투 챗봇</sub><br/>
+      <a href="https://github.com/your-repo-ai-llm">
         <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
-      <a href="https://your-dashboard-link-AI-LLM">
-        <img src="https://img.shields.io/badge/Dashboard-2DD4BF?style=for-the-badge&logo=tableau&logoColor=white"/>
-      </a>
     </td>
-  </tr>
 
-  <tr>
-    <td><b>📊 Bayesian 모델링 & 대시보드</b><br/>
-      <sub>설문 보완 + 브랜드 가치 평가, SNR·Lift 퍼널 차트</sub>
-    </td>
-    <td>
+    <!-- 프로젝트 2 -->
+    <td align="center" width="50%">
+      <b>📊 Bayesian 모델링 & 대시보드</b><br/>
+      <sub>설문 데이터 보완 + 브랜드 가치 평가,<br/>SNR·Lift 퍼널 차트 시각화</sub><br/>
       <a href="https://github.com/your-repo-bayesian">
         <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
-      <a href="https://your-dashboard-link-bayesian">
+      <a href="https://your-dashboard-link">
         <img src="https://img.shields.io/badge/Dashboard-2DD4BF?style=for-the-badge&logo=tableau&logoColor=white"/>
       </a>
     </td>
   </tr>
 
   <tr>
-    <td><b>🌐 정성+정량 데이터 융합 + 디지털 트윈</b><br/>
-      <sub>소셜 + 조사 데이터 결합, 디지털 트윈 인사이트 & 대시보드</sub>
-    </td>
-    <td>
+    <!-- 프로젝트 3 -->
+    <td align="center" width="50%">
+      <b>🌐 정성+정량 데이터 융합 + 디지털 트윈</b><br/>
+      <sub>소셜 + 조사 데이터 결합,<br/>디지털 트윈 인사이트 및 대시보드 구축</sub><br/>
       <a href="https://github.com/your-repo-digital-twin">
         <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
-      <a href="https://your-dashboard-link-digital-twin">
+      <a href="https://your-dashboard-link">
         <img src="https://img.shields.io/badge/Dashboard-2DD4BF?style=for-the-badge&logo=tableau&logoColor=white"/>
       </a>
     </td>
-  </tr>
 
-  <tr>
-    <td><b>📈 브랜드 파워 영향 요인 분석</b><br/>
-      <sub>SEM + 동적 회귀 기반 Path 분석, 전략 제안</sub>
-    </td>
-    <td>
+    <!-- 프로젝트 4 -->
+    <td align="center" width="50%">
+      <b>📈 브랜드 파워 영향 요인 분석</b><br/>
+      <sub>SEM + 동적 회귀 기반 Path 분석,<br/>클라이언트 전략 제안</sub><br/>
       <a href="https://github.com/your-repo-brand-power">
         <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
-      <a href="https://your-slides-link-brand-power">
+      <a href="https://your-slides-link">
         <img src="https://img.shields.io/badge/Slides-6B7280?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"/>
       </a>
     </td>
   </tr>
 </table>
+
