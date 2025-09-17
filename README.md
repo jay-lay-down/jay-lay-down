@@ -32,7 +32,7 @@
 </p>
 
 ---
-<h2 align="center">📌 프로젝트 하이라이트</h2>
+[<h2 align="center">📌 프로젝트 하이라이트</h2>
 
 <table align="center">
   <tr>
@@ -65,3 +65,4 @@
   </a>
 </p>
 
+](https://velog.io/@jaylaydown/series/side-project-1)
