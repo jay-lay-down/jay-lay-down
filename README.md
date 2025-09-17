@@ -32,7 +32,6 @@
 </p>
 
 ---
-
 <h2 align="center">📌 프로젝트 하이라이트</h2>
 
 <table align="center" width="100%" style="border-collapse:separate; border-spacing:12px;">
@@ -99,4 +98,3 @@
     </td>
   </tr>
 </table>
-
