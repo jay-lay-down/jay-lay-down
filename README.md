@@ -33,9 +33,47 @@
 
 ---
 
-## 📌 프로젝트 하이라이트
-
-| **🤖 AI/LLM 기반 분석 챗봇** | **📊 Bayesian 모델링 & 대시보드** | **🌐 정성+정량 데이터 융합 + 디지털 트윈** | **📈 브랜드 파워 영향 요인 분석** |
-|:---:|:---:|:---:|:---:|
-| OpenAI API + HuggingFace + QLoRA 적용,<br/>개인 말투 챗봇 | 설문 보완 + 브랜드 가치 평가,<br/>SNR·Lift 퍼널 차트 | 소셜 + 조사 데이터 결합,<br/>디지털 트윈 인사이트/대시보드 | SEM + 동적 회귀 기반 Path 분석,<br/>클라이언트 전략 제안 |
-| [![REPO](https://img.shields.io/badge/REPO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-repo-ai-llm) | [![REPO](https://img.shields.io/badge/REPO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-repo-bayesian) [![DASHBOARD](https://img.shields.io/badge/DASHBOARD-2DD4BF?style=for-the-badge&logo=tableau&logoColor=white)](https://your-dashboard-link-bayesian) | [![REPO](https://img.shields.io/badge/REPO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-repo-digital-twin) [![DASHBOARD](https://img.shields.io/badge/DASHBOARD-2DD4BF?style=for-the-badge&logo=tableau&logoColor=white)](https://your-dashboard-link-digital-twin) | [![REPO](https://img.shields.io/badge/REPO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-repo-brand-power) [![SLIDES](https://img.shields.io/badge/SLIDES-6B7280?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)](https://your-slides-link-brand-power) |
+<h2>📌 프로젝트 하이라이트</h2>
+<table>
+  <tr>
+    <td valign="top" align="center">
+      <b>🤖 AI/LLM 기반 분석 챗봇</b><br/>
+      <sub>OpenAI API + HuggingFace + QLoRA 적용,<br/>개인 말투 챗봇</sub><br/><br/>
+      <a href="https://github.com/your-repo-ai-llm">
+        <img alt="REPO" src="https://img.shields.io/badge/REPO-181717?style=for-the-badge&logo=github&logoColor=white">
+      </a>
+    </td>
+    <td valign="top" align="center">
+      <b>📊 Bayesian 모델링 &amp; 대시보드</b><br/>
+      <sub>설문 보완 + 브랜드 가치 평가,<br/>SNR·Lift 퍼널 차트</sub><br/><br/>
+      <a href="https://github.com/your-repo-bayesian">
+        <img alt="REPO" src="https://img.shields.io/badge/REPO-181717?style=for-the-badge&logo=github&logoColor=white">
+      </a>
+      <a href="https://your-dashboard-link-bayesian">
+        <img alt="DASHBOARD" src="https://img.shields.io/badge/DASHBOARD-2DD4BF?style=for-the-badge&logo=tableau&logoColor=white">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" align="center">
+      <b>🌐 정성+정량 데이터 융합 + 디지털 트윈</b><br/>
+      <sub>소셜 + 조사 데이터 결합,<br/>디지털 트윈 인사이트/대시보드</sub><br/><br/>
+      <a href="https://github.com/your-repo-digital-twin">
+        <img alt="REPO" src="https://img.shields.io/badge/REPO-181717?style=for-the-badge&logo=github&logoColor=white">
+      </a>
+      <a href="https://your-dashboard-link-digital-twin">
+        <img alt="DASHBOARD" src="https://img.shields.io/badge/DASHBOARD-2DD4BF?style=for-the-badge&logo=tableau&logoColor=white">
+      </a>
+    </td>
+    <td valign="top" align="center">
+      <b>📈 브랜드 파워 영향 요인 분석</b><br/>
+      <sub>SEM + 동적 회귀 기반 Path 분석,<br/>클라이언트 전략 제안</sub><br/><br/>
+      <a href="https://github.com/your-repo-brand-power">
+        <img alt="REPO" src="https://img.shields.io/badge/REPO-181717?style=for-the-badge&logo=github&logoColor=white">
+      </a>
+      <a href="https://your-slides-link-brand-power">
+        <img alt="SLIDES" src="https://img.shields.io/badge/SLIDES-6B7280?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white">
+      </a>
+    </td>
+  </tr>
+</table>
