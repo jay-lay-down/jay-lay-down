@@ -49,6 +49,38 @@ SOLAR(huggingface) + QLoRA 적용, **개인 말투 챗봇 개발**
 </p>
 
 ---
+### 🌐  Bayesian 모델링 & 대시보드 + 디지털 트윈
+소셜 데이터 + 조사 데이터 결합, **디지털 트윈 기반 인사이트 및 대시보드 구축**
+
+<p align="center">
+  <a href="https://github.com/...">
+    <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://velog.io/@jaylaydown/series/side-project-1">
+    <img src="https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=velog&logoColor=white" />
+  </a>
+  <a href="https://...">
+    <img src="https://img.shields.io/badge/Dashboard-2DD4BF?style=for-the-badge&logo=tableau&logoColor=white" />
+  </a>
+</p>
+
+---
+### 📈 Bayesian norm
+온라인 리뷰 크롤링을 통한 Segment별 디지털 트윈 데이터 생성 + Bayesian으로 정성데이터+정량데이터 결합을 통한 형용사 평가 norm 구축
+
+<p align="center">
+  <a href="https://github.com/...">
+    <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://velog.io/@jaylaydown/series/side-project-1">
+    <img src="https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=velog&logoColor=white" />
+  </a>
+  <a href="https://...">
+    <img src="https://img.shields.io/badge/Dashboard-2DD4BF?style=for-the-badge&logo=tableau&logoColor=white" />
+  </a>
+</p>
+
+---
 
 ### 📊 수요 예측
 다양한 지표를 활용하여 향후 가전시장 수요, Brand Mind Share% 예측 정확도 제고
@@ -67,8 +99,8 @@ SOLAR(huggingface) + QLoRA 적용, **개인 말투 챗봇 개발**
 
 ---
 
-### 🌐  Bayesian 모델링 & 대시보드 + 디지털 트윈
-소셜 데이터 + 조사 데이터 결합, **디지털 트윈 기반 인사이트 및 대시보드 구축**
+### 👥 브랜드 파워 영향 요인 분석
+LPA를 통한 합성 지표+SEM 기반 **성과 Path 분석 & 전략 제안**
 
 <p align="center">
   <a href="https://github.com/...">
@@ -78,14 +110,14 @@ SOLAR(huggingface) + QLoRA 적용, **개인 말투 챗봇 개발**
     <img src="https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=velog&logoColor=white" />
   </a>
   <a href="https://...">
-    <img src="https://img.shields.io/badge/Dashboard-2DD4BF?style=for-the-badge&logo=tableau&logoColor=white" />
+    <img src="https://img.shields.io/badge/Slides-6B7280?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 📈 브랜드 파워 영향 요인 분석
-LPA를 통한 합성 지표+SEM 기반 **성과 Path 분석 & 전략 제안**
+### 🔢 기타 업무 포트폴리오
+업무 자동화 및 데이터 검증 툴
 
 <p align="center">
   <a href="https://github.com/...">
