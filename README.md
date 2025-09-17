@@ -50,8 +50,8 @@ OpenAI API + HuggingFace + QLoRA 적용, **개인 말투 챗봇 개발**
 
 ---
 
-### 📊 Bayesian 모델링 & 대시보드
-설문 데이터 보완 + 브랜드 가치 평가, **SNR·Lift 퍼널 차트 시각화**
+### 📊 수요 예측
+가전시장 매출액, Brand Mind Share% 등 다양한 수요 예측을 통한 전략 수립 **수요예측 모델링**
 
 <p align="center">
   <a href="https://github.com/...">
@@ -67,7 +67,7 @@ OpenAI API + HuggingFace + QLoRA 적용, **개인 말투 챗봇 개발**
 
 ---
 
-### 🌐 정성+정량 데이터 융합 + 디지털 트윈
+### 🌐  Bayesian 모델링 & 대시보드 + 디지털 트윈
 소셜 데이터 + 조사 데이터 결합, **디지털 트윈 기반 인사이트 및 대시보드 구축**
 
 <p align="center">
@@ -85,7 +85,7 @@ OpenAI API + HuggingFace + QLoRA 적용, **개인 말투 챗봇 개발**
 ---
 
 ### 📈 브랜드 파워 영향 요인 분석
-SEM(구조방정식) + 동적 회귀 기반, **성과 Path 분석 & 전략 제안**
+LPA를 통한 합성 지표+SEM 기반 **성과 Path 분석 & 전략 제안**
 
 <p align="center">
   <a href="https://github.com/...">
