@@ -37,10 +37,10 @@
 ---
 
 ### 🤖 AI/LLM 기반 분석 챗봇
-OpenAI API + HuggingFace + QLoRA 적용, **개인 말투 챗봇 개발**
+SOLAR(huggingface) + QLoRA 적용, **개인 말투 챗봇 개발**
 
 <p align="center">
-  <a href="https://github.com/...">
+  <a href="https://github.com/jay-lay-down/jay-chatbot">
     <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://velog.io/@jaylaydown/series/side-project-1">
