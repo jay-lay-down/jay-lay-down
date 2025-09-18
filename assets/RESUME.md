@@ -2,7 +2,8 @@
 
 **Portfolio:** [GitHub](https://github.com/jay-lay-down)  
 **Location:** Seoul, Republic of Korea  
-> Contact: Please reach out via GitHub Issues in this repo.
+> Contact: https://www.linkedin.com/in/jihee-cho-767aa9260/
+           chubbyfinger1010@gmail.com
 
 ---
 
