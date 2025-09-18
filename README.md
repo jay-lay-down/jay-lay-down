@@ -6,7 +6,6 @@
 
 <p align="right">
   <sub>
-    <a href="https://www.linkedin.com/in/jihee-cho-767aa9260">LinkedIn</a> •
     <a href="https://huggingface.co/Jay1121">Hugging Face</a> •
     <a href="https://velog.io/@jaylaydown">Velog</a>
   </sub>
