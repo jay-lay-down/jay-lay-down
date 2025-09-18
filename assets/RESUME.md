@@ -2,8 +2,7 @@
 
 **Portfolio:** [GitHub](https://github.com/jay-lay-down)  
 **Location:** Seoul, Republic of Korea  
-> Contact: https://www.linkedin.com/in/jihee-cho-767aa9260/
-           chubbyfinger1010@gmail.com
+📧 chubbyfinger1010@gmail.com    |    (in) linkedin.com/in/jihee-cho-767aa9260
 
 ---
 
