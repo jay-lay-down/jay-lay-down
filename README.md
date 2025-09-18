@@ -1,8 +1,10 @@
 ## 👋 Hi There!
 
 <p align="center">
+  <a href="https://your-site-or-repo-url">
+    <img src="assets/image_2.jpg" alt="open app" width="600">
+  </a>
 </p>
-
 ---
 
 <h2 align="center">🔑 핵심역량</h2>
