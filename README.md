@@ -8,7 +8,7 @@
 ### 🔑 Core Competencies
 <p align="center">
   📊 정성+정량 데이터 융합 &nbsp;|&nbsp; 🧠 Bayesian 모델링·대시보드 &nbsp;|&nbsp; 🤖 AI/LLM 응용
-  &nbsp;|&nbsp; 📈 비즈니스 인사이트 연결 &nbsp;|&nbsp; 🤝 글로벌 협업 &nbsp;|&nbsp; 🧩 프롬프트 엔지니어링
+  &nbsp;|&nbsp; <br/> 📈 비즈니스 인사이트 연결 &nbsp;|&nbsp; 🤝 글로벌 협업 &nbsp;|&nbsp; 🧩 프롬프트 엔지니어링
 </p>
 
 <p align="right">
@@ -19,26 +19,19 @@
   </sub>
 </p>
 
-
 ### 🧰 Skills
 <p align="center">
-  <!-- Core ML -->
-  <img src="https://cdn.simpleicons.org/python/4B8BBE" height="26" alt="Python">
-  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="26" alt="PyTorch">
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="26" alt="TensorFlow">
-  <img src="https://cdn.simpleicons.org/r/276DC3" height="26" alt="R">
-  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="26" alt="Hugging Face">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" style="margin:4px 6px;" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" style="margin:4px 6px;" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" style="margin:4px 6px;" />
+  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge" style="margin:4px 6px;" />
+  <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" style="margin:4px 6px;" />
   <br/>
-  <!-- Data/BI/Office -->
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="26" alt="SQL">
-  <img src="https://cdn.simpleicons.org/tableau/E97627" height="26" alt="Tableau">
-  <img src="https://cdn.simpleicons.org/apachehadoop/66CCFF" height="26" alt="Hadoop">
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="26" alt="Excel">
-  <img src="https://cdn.simpleicons.org/microsoftpowerpoint/B7472A" height="26" alt="PowerPoint">
+  <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge" style="margin:4px 6px;" />
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?logo=apachehadoop&logoColor=black&style=for-the-badge" style="margin:4px 6px;" />
+  <img src="https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white&style=for-the-badge" style="margin:4px 6px;" />
+  <img src="https://img.shields.io/badge/PowerPoint-B7472A?logo=microsoftpowerpoint&logoColor=white&style=for-the-badge" style="margin:4px 6px;" />
 </p>
-
-
-
 
 ### 📊 GitHub Overview
 
