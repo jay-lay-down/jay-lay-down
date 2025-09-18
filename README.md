@@ -1,38 +1,37 @@
 ## 👋 Hi There!
 
-<p align="center">
-  <a href="https://your-site-or-repo-url">
-    <img src="assets/image_2.jpg" alt="open app">
-  </a>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🔑 Core Competencies
+- 정성·정량 데이터 융합  
+- Bayesian 모델링·대시보드 구축  
+- AI/LLM 응용  
+- 비즈니스 인사이트 연결  
+- 글로벌 협업 경험  
+- 프롬프트 엔지니어링
+
+    </td>
+    <td width="50%" valign="top">
+
+### 🧰 Skills
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black">
+  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white">
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?logo=apachehadoop&logoColor=black">
+  <img src="https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white">
+  <img src="https://img.shields.io/badge/PowerPoint-B7472A?logo=microsoftpowerpoint&logoColor=white">
 </p>
 
-
-<h2 align="center">🔑 핵심역량</h2>
-
-<p align="center">
-🌐 정성+정량 데이터 융합 &nbsp;|&nbsp; 🧠 Bayesian 모델링·대시보드 구축 &nbsp;|&nbsp; 🤖 AI/LLM 응용  
-<br/>
-📊 비즈니스 인사이트 연결 &nbsp;|&nbsp; 🤝 글로벌 협업 경험 &nbsp;|&nbsp; 📝 프롬프트 엔지니어링
-</p>
-
----
-
-<h2 align="center">🛠 Skills</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFCC4D?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
-</p>
+    </td>
+  </tr>
+</table>
 
 <!-- 언어 비율 카드 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jay-lay-down&layout=compact&langs_count=8)
