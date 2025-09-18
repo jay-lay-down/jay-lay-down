@@ -5,37 +5,39 @@
   </a>
 </p>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
 ### 🔑 Core Competencies
-- 정성·정량 데이터 융합  
-- Bayesian 모델링·대시보드 구축  
-- AI/LLM 응용  
-- 비즈니스 인사이트 연결  
-- 글로벌 협업 경험  
-- 프롬프트 엔지니어링
-
-    </td>
-    <td width="50%" valign="top">
-
-### 🧰 Skills
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black">
-  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white">
-  <img src="https://img.shields.io/badge/Hadoop-66CCFF?logo=apachehadoop&logoColor=black">
-  <img src="https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white">
-  <img src="https://img.shields.io/badge/PowerPoint-B7472A?logo=microsoftpowerpoint&logoColor=white">
+<p align="center">
+  📊 정성+정량 데이터 융합 &nbsp;|&nbsp; 🧠 Bayesian 모델링·대시보드 &nbsp;|&nbsp; 🤖 AI/LLM 응용
+  &nbsp;|&nbsp; 📈 비즈니스 인사이트 연결 &nbsp;|&nbsp; 🤝 글로벌 협업 &nbsp;|&nbsp; 🧩 프롬프트 엔지니어링
 </p>
 
-  </tr>
-</table>
+### 🌐 Social
+<p align="center">
+  <a href="https://www.linkedin.com/in/jihee-cho-767aa9260" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
+  </a>
+  <a href="https://huggingface.co/Jay1121" target="_blank">
+    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black&style=for-the-badge" alt="Hugging Face">
+  </a>
+  <a href="https://velog.io/@jaylaydown" target="_blank">
+    <img src="https://img.shields.io/badge/Velog-20C997?logo=velog&logoColor=white&style=for-the-badge" alt="Velog">
+  </a>
+</p>
+
+### 🧰 Skills
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black&style=for-the-badge">
+  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?logo=apachehadoop&logoColor=black&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/PowerPoint-B7472A?logo=microsoftpowerpoint&logoColor=white&style=for-the-badge">
+</p>
+
 
 ### 📊 GitHub Overview
 
