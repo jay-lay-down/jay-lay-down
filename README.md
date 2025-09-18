@@ -65,7 +65,7 @@ SOLAR(huggingface) + QLoRA 적용, **개인 말투 챗봇 개발**
 온라인 리뷰 크롤링을 통한 Segment별 디지털 트윈 데이터 생성 + Bayesian으로 정성데이터+정량데이터 결합을 통한 형용사 평가 norm 구축
 
 <p align="center">
-  <a href="https://github.com/...">
+  <a href="https://github.com/jay-lay-down/bayesian_norm">
     <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://velog.io/@jaylaydown/BayesianAdjectiveNorm">
