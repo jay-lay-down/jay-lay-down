@@ -7,7 +7,8 @@
 <p align="right">
   <sub>
     <a href="https://huggingface.co/Jay1121">Hugging Face</a> •
-    <a href="https://velog.io/@jaylaydown">Velog</a>
+    <a href="https://velog.io/@jaylaydown">Velog</a> •
+    <a href="https://github.com/jay-lay-down/jiheecho/blob/main/assets/RESUME.md">Resume</a>
   </sub>
 </p>
 
@@ -114,7 +115,7 @@ LPA를 통한 합성 지표+SEM 기반 **성과 Path 분석 & 전략 제안**
 
 ### 🔢 Resume
 <p align="center">
-  <a href="https://github.com/jay-lay-down/jiheecho/blob/main/assets/RESUME.md">
+  <a href="https://">
     <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
   </a>
 </p>
