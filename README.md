@@ -1,33 +1,6 @@
 ## 👋 Hi There!
 
 <p align="center">
-<div style="display:flex; justify-content:center; margin-bottom:22px;">
-  <table aria-label="프로필 요약"
-         style="border-collapse:separate; border-spacing:0; overflow:hidden;
-                border-radius:14px; box-shadow:0 6px 18px rgba(0,0,0,0.08);
-                font-size:15px; min-width:280px;">
-    <tbody>
-      <tr>
-        <td style="background:#e8fbf5; font-weight:600; padding:10px 14px; 
-                   border-right:1px solid #f0f0f0; white-space:nowrap;">이름</td>
-        <td style="padding:10px 14px; background:#fff;">Jihee Cho</td>
-      </tr>
-      <tr>
-        <td style="background:#e8fbf5; font-weight:600; padding:10px 14px; 
-                   border-right:1px solid #f0f0f0; white-space:nowrap;">성별</td>
-        <td style="padding:10px 14px; background:#fff;">Female</td>
-      </tr>
-      <tr>
-        <td style="background:#e8fbf5; font-weight:600; padding:10px 14px; 
-                   border-right:1px solid #f0f0f0; white-space:nowrap;">생년</td>
-        <td style="padding:10px 14px; background:#fff;">Jan, 25, 1991</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
-  데이터 분석과 AI/LLM을 융합해 <b>정성+정량 데이터를 결합</b>하고,<br/>
-  비즈니스 의사결정으로 이어지는 <b>실질적 인사이트</b>를 만드는 분석가입니다.
 </p>
 
 ---
@@ -77,7 +50,7 @@ SOLAR(huggingface) + QLoRA 적용, **개인 말투 챗봇 개발**
 소셜 데이터 + 조사 데이터 결합, **디지털 트윈 기반 인사이트 및 대시보드 구축**
 
 <p align="center">
-  <a href="https://github.com/...">
+  <a href="https://github.com/jay-lay-down/bayesian_dashboard">
     <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://...">
