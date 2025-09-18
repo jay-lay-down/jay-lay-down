@@ -10,7 +10,7 @@
       <tr>
         <td style="background:#e8fbf5; font-weight:600; padding:10px 14px; 
                    border-right:1px solid #f0f0f0; white-space:nowrap;">이름</td>
-        <td style="padding:10px 14px; background:#fff;">조지희</td>
+        <td style="padding:10px 14px; background:#fff;">Jihee Cho</td>
       </tr>
       <tr>
         <td style="background:#e8fbf5; font-weight:600; padding:10px 14px; 
@@ -20,7 +20,7 @@
       <tr>
         <td style="background:#e8fbf5; font-weight:600; padding:10px 14px; 
                    border-right:1px solid #f0f0f0; white-space:nowrap;">생년</td>
-        <td style="padding:10px 14px; background:#fff;">1991</td>
+        <td style="padding:10px 14px; background:#fff;">Jan, 25, 1991</td>
       </tr>
     </tbody>
   </table>
