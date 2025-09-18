@@ -111,9 +111,6 @@ LPA를 통한 합성 지표+SEM 기반 **성과 Path 분석 & 전략 제안**
 업무 자동화 및 데이터 검증 툴
 
 <p align="center">
-  <a href="https://github.com/...">
-    <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="https://...">
     <img src="https://img.shields.io/badge/Slides-6B7280?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" />
   </a>
