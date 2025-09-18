@@ -1,6 +1,5 @@
 ## 👋 Hi There!
 <p align="center">
-  <a href="https://github.com/jay-lay-down">
     <img src="https://github.com/jay-lay-down/jay-lay-down/blob/main/assets/image_2.jpg" alt="Header image">
   </a>
 </p>
