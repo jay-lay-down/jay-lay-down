@@ -26,16 +26,17 @@
 
 ### 🧰 Skills
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Hadoop-66CCFF?logo=apachehadoop&logoColor=black&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/PowerPoint-B7472A?logo=microsoftpowerpoint&logoColor=white&style=for-the-badge">
+  <a href="https://www.python.org/"><img src="https://cdn.simpleicons.org/python/4B8BBE" height="28" alt="Python"></a>
+  <a href="https://pytorch.org/"><img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="28" alt="PyTorch"></a>
+  <a href="https://www.tensorflow.org/"><img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="28" alt="TensorFlow"></a>
+  <a href="https://www.r-project.org/"><img src="https://cdn.simpleicons.org/r/276DC3" height="28" alt="R"></a>
+  <a href="https://www.postgresql.org/"><img src="https://cdn.simpleicons.org/postgresql/4169E1" height="28" alt="SQL(PostgreSQL)"></a>
+  <a href="https://www.tableau.com/"><img src="https://cdn.simpleicons.org/tableau/E97627" height="28" alt="Tableau"></a>
+  <a href="https://hadoop.apache.org/"><img src="https://cdn.simpleicons.org/apachehadoop/66CCFF" height="28" alt="Hadoop"></a>
+  <a href="https://www.microsoft.com/microsoft-365/excel"><img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="28" alt="Excel"></a>
+  <a href="https://www.microsoft.com/microsoft-365/powerpoint"><img src="https://cdn.simpleicons.org/microsoftpowerpoint/B7472A" height="28" alt="PowerPoint"></a>
 </p>
+
 
 
 ### 📊 GitHub Overview
