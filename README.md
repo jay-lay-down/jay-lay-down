@@ -59,7 +59,7 @@ SOLAR(huggingface) + QLoRA 적용, **개인 말투 챗봇 개발**
 
 ---
 ### 🌐 Bayesian 모델링 & 대시보드 
-소셜 데이터 + 조사 데이터 결합, **데이터 증강 기반 인사이트 및 대시보드 구축**\
+‘선호→추천→의도→구매’ 전환율을 위계적 베이지안으로 추정. 제품 투자 우선순위를 뽑아 매출 전환 최적화에 활용
 (대시보드 서버 오류. Git 내 이미지 참고)
 <p align="center">
   <a href="https://github.com/jay-lay-down/bayesian_dashboard">
