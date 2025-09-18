@@ -37,12 +37,12 @@
   </tr>
 </table>
 
-<!-- 언어 비율 카드 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jay-lay-down&layout=compact&langs_count=8)
+### 📊 GitHub Overview
 
-<!-- 일반 통계 카드 -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jay-lay-down&show_icons=true&theme=default)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay-lay-down&layout=compact&theme=default" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jay-lay-down&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true" height="170" />
+</p>
 
 ---
 <h2 align="center">📌 프로젝트 하이라이트</h2>
