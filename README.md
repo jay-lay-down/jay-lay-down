@@ -34,7 +34,6 @@
   <img src="https://img.shields.io/badge/PowerPoint-B7472A?logo=microsoftpowerpoint&logoColor=white">
 </p>
 
-    </td>
   </tr>
 </table>
 
