@@ -115,7 +115,7 @@ LPA를 통한 합성 지표+SEM 기반 **성과 Path 분석 & 전략 제안**
 
 ### 🔢 기타 프로젝트 포트폴리오
 <p align="center">
-  <a href="https://">
+  <a href="https://github.com/jay-lay-down/jay-lay-down/blob/main/assets/Example_projects.pdf">
     <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
   </a>
 </p>
