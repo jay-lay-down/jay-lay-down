@@ -5,18 +5,18 @@
   </a>
 </p>
 
-### 🔑 Core Competencies
-<p align="center">
-  📊 정성+정량 데이터 융합 &nbsp;|&nbsp; 🧠 Bayesian 모델링·대시보드 &nbsp;|&nbsp; 🤖 AI/LLM 응용
-  &nbsp;|&nbsp; <br/> 📈 비즈니스 인사이트 연결 &nbsp;|&nbsp; 🤝 글로벌 협업 &nbsp;|&nbsp; 🧩 프롬프트 엔지니어링
-</p>
-
 <p align="right">
   <sub>
     <a href="https://www.linkedin.com/in/jihee-cho-767aa9260">LinkedIn</a> •
     <a href="https://huggingface.co/Jay1121">Hugging Face</a> •
     <a href="https://velog.io/@jaylaydown">Velog</a>
   </sub>
+</p>
+
+### 🔑 Core Competencies
+<p align="center">
+  📊 정성+정량 데이터 융합 &nbsp;|&nbsp; 🧠 Bayesian 모델링·대시보드 &nbsp;|&nbsp; 🤖 AI/LLM 응용
+  &nbsp;|&nbsp; <br/> 📈 비즈니스 인사이트 연결 &nbsp;|&nbsp; 🤝 글로벌 협업 &nbsp;|&nbsp; 🧩 프롬프트 엔지니어링
 </p>
 
 ### 🧰 Skills
