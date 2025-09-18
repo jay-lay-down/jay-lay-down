@@ -49,7 +49,7 @@ SOLAR(huggingface) + QLoRA 적용, **개인 말투 챗봇 개발**
 
 ---
 ### 🌐  Bayesian 모델링 & 대시보드 
-소셜 데이터 + 조사 데이터 결합, **디지털 트윈 기반 인사이트 및 대시보드 구축**
+소셜 데이터 + 조사 데이터 결합, **데이터 증강 기반 인사이트 및 대시보드 구축**
 
 <p align="center">
   <a href="https://github.com/jay-lay-down/bayesian_dashboard">
