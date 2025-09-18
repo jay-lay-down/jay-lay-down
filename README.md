@@ -61,7 +61,7 @@ SOLAR(huggingface) + QLoRA 적용, **개인 말투 챗봇 개발**
 </p>
 
 ---
-### 📈 Bayesian norm & 디지털 트원
+### 📈 Bayesian norm을 사용한 브랜드 이미지 평가
 온라인 리뷰 크롤링을 통한 Segment별 디지털 트윈 데이터 생성 + Bayesian으로 정성데이터+정량데이터 결합을 통한 형용사 평가 norm 구축
 
 <p align="center">
