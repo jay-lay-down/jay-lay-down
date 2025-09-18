@@ -1,10 +1,8 @@
 ## 👋 Hi There!
 
 <p align="center">
-![jay-lay-down](./assets/image_2.jpg)
+  <img src="./assets/image_2.jpg" alt="jay-lay-down" />
 </p>
-
----
 
 <h2 align="center">🔑 핵심역량</h2>
 
