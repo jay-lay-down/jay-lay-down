@@ -71,9 +71,6 @@ SOLAR(huggingface) + QLoRA 적용, **개인 말투 챗봇 개발**
   <a href="https://velog.io/@jaylaydown/BayesianAdjectiveNorm">
     <img src="https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=velog&logoColor=white" />
   </a>
-  <a href="https://...">
-    <img src="https://img.shields.io/badge/Dashboard-2DD4BF?style=for-the-badge&logo=tableau&logoColor=white" />
-  </a>
 </p>
 
 ---
