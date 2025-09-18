@@ -26,16 +26,21 @@
 
 ### 🧰 Skills
 <p align="center">
-  <a href="https://www.python.org/"><img src="https://cdn.simpleicons.org/python/4B8BBE" height="28" alt="Python"></a>
-  <a href="https://pytorch.org/"><img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="28" alt="PyTorch"></a>
-  <a href="https://www.tensorflow.org/"><img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="28" alt="TensorFlow"></a>
-  <a href="https://www.r-project.org/"><img src="https://cdn.simpleicons.org/r/276DC3" height="28" alt="R"></a>
-  <a href="https://www.postgresql.org/"><img src="https://cdn.simpleicons.org/postgresql/4169E1" height="28" alt="SQL(PostgreSQL)"></a>
-  <a href="https://www.tableau.com/"><img src="https://cdn.simpleicons.org/tableau/E97627" height="28" alt="Tableau"></a>
-  <a href="https://hadoop.apache.org/"><img src="https://cdn.simpleicons.org/apachehadoop/66CCFF" height="28" alt="Hadoop"></a>
-  <a href="https://www.microsoft.com/microsoft-365/excel"><img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="28" alt="Excel"></a>
-  <a href="https://www.microsoft.com/microsoft-365/powerpoint"><img src="https://cdn.simpleicons.org/microsoftpowerpoint/B7472A" height="28" alt="PowerPoint"></a>
+  <!-- Core ML -->
+  <img src="https://cdn.simpleicons.org/python/4B8BBE" height="26" alt="Python">
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="26" alt="PyTorch">
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="26" alt="TensorFlow">
+  <img src="https://cdn.simpleicons.org/r/276DC3" height="26" alt="R">
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="26" alt="Hugging Face">
+  <br/>
+  <!-- Data/BI/Office -->
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="26" alt="SQL">
+  <img src="https://cdn.simpleicons.org/tableau/E97627" height="26" alt="Tableau">
+  <img src="https://cdn.simpleicons.org/apachehadoop/66CCFF" height="26" alt="Hadoop">
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="26" alt="Excel">
+  <img src="https://cdn.simpleicons.org/microsoftpowerpoint/B7472A" height="26" alt="PowerPoint">
 </p>
+
 
 
 
