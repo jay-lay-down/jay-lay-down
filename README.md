@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black&style=for-the-badge" style="margin:4px 6px;" />
 </p>
 
-### 📊 GitHub Overview
+### 💻 GitHub Overview
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay-lay-down&layout=compact&theme=default" height="170" />
@@ -58,7 +58,7 @@ SOLAR(huggingface) + QLoRA 적용, **개인 말투 챗봇 개발**
 </p>
 
 ---
-### 🌐  Bayesian 모델링 & 대시보드 
+### 🌐 Bayesian 모델링 & 대시보드 
 소셜 데이터 + 조사 데이터 결합, **데이터 증강 기반 인사이트 및 대시보드 구축**\
 (대시보드 서버 오류. Git 내 이미지 참고)
 <p align="center">
@@ -72,7 +72,7 @@ SOLAR(huggingface) + QLoRA 적용, **개인 말투 챗봇 개발**
 
 ---
 ### 📈 Bayesian norm을 사용한 브랜드 이미지 평가
-온라인 리뷰 크롤링을 통한 Segment별 디지털 트윈 데이터 생성 + Bayesian으로 정성데이터+정량데이터 결합을 통한 형용사 평가 norm 구축
+소셜 데이터 + 조사 데이터 결합, **데이터 증강 기반 인사이트 및 대시보드 구축**\
 
 <p align="center">
   <a href="https://github.com/jay-lay-down/bayesian_norm">
@@ -99,7 +99,7 @@ SOLAR(huggingface) + QLoRA 적용, **개인 말투 챗봇 개발**
 
 ---
 
-### 📊 Brandshare% 예측
+### ☑ Brandshare% 예측
 BrandShare와 같은 Sequence 단위 예측 + Softmax를 통한 최적화
 
 <p align="center">
