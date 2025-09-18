@@ -11,18 +11,14 @@
   &nbsp;|&nbsp; 📈 비즈니스 인사이트 연결 &nbsp;|&nbsp; 🤝 글로벌 협업 &nbsp;|&nbsp; 🧩 프롬프트 엔지니어링
 </p>
 
-### 🌐 Social
-<p align="center">
-  <a href="https://www.linkedin.com/in/jihee-cho-767aa9260" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
-  </a>
-  <a href="https://huggingface.co/Jay1121" target="_blank">
-    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black&style=for-the-badge" alt="Hugging Face">
-  </a>
-  <a href="https://velog.io/@jaylaydown" target="_blank">
-    <img src="https://img.shields.io/badge/Velog-20C997?logo=velog&logoColor=white&style=for-the-badge" alt="Velog">
-  </a>
+<p align="right">
+  <sub>
+    <a href="https://www.linkedin.com/in/jihee-cho-767aa9260">LinkedIn</a> •
+    <a href="https://huggingface.co/Jay1121">Hugging Face</a> •
+    <a href="https://velog.io/@jaylaydown">Velog</a>
+  </sub>
 </p>
+
 
 ### 🧰 Skills
 <p align="center">
