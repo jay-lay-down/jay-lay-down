@@ -87,7 +87,7 @@ SOLAR(huggingface) + QLoRA 적용, **개인 말투 챗봇 개발**
     <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://...">
-    <img src="https://img.shields.io/badge/Dashboard-2DD4BF?style=for-the-badge&logo=tableau&logoColor=white" />
+    <img src="https://img.shields.io/badge/Slides-6B7280?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" />
   </a>
 </p>
 
