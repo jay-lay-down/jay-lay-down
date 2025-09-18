@@ -86,7 +86,7 @@ SOLAR(huggingface) + QLoRA 적용, **개인 말투 챗봇 개발**
 ---
 
 ### 📊 수요 예측
-다양한 지표를 활용하여 향후 가전시장 수요, Brand Mind Share% 예측 정확도 제고
+다양한 지표를 활용하여 향후 가전시장 수요 예측 정확도 제고를 통한 인사이트 제공
 
 <p align="center">
   <a href="https://github.com/jay-lay-down/demand_forecasting">
@@ -99,11 +99,24 @@ SOLAR(huggingface) + QLoRA 적용, **개인 말투 챗봇 개발**
 
 ---
 
+### 📊 Brandshare% 예측
+BrandShare와 같은 Sequence 단위 예측 + Softmax를 통한 최적화
+
+<p align="center">
+  <a href="https://github.com/jay-lay-down/seq2seq_softmax">
+    <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/jay-lay-down/demand_forecasting/blob/main/assets/Example_Forecasting%20Projects.pdf">
+    <img src="https://img.shields.io/badge/Slides-6B7280?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" />
+  </a>
+</p>
+
+---
 ### 👥 브랜드 파워 영향 요인 분석
 LPA를 통한 합성 지표+SEM 기반 **성과 Path 분석 & 전략 제안**
 
 <p align="center">
-  <a href="https://github.com/...">
+  <a href="https://github.com/jay-lay-down/LPA_synthetic_vars">
     <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://...">
