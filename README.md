@@ -79,7 +79,7 @@ SOLAR(huggingface) + QLoRA 적용, **개인 말투 챗봇 개발**
 다양한 지표를 활용하여 향후 가전시장 수요, Brand Mind Share% 예측 정확도 제고
 
 <p align="center">
-  <a href="https://github.com/...">
+  <a href="https://github.com/jay-lay-down/demand_forecasting">
     <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://...">
