@@ -17,7 +17,7 @@
 
 ---
 
-<h2 align="center">🛠 기술스킬</h2>
+<h2 align="center">🛠 Skills</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -33,6 +33,13 @@
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
 </p>
+
+<!-- 언어 비율 카드 -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jay-lay-down&layout=compact&langs_count=8)
+
+<!-- 일반 통계 카드 -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jay-lay-down&show_icons=true&theme=default)
+
 
 ---
 <h2 align="center">📌 프로젝트 하이라이트</h2>
