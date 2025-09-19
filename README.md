@@ -36,7 +36,7 @@
 ### 💻 GitHub Overview
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay-lay-down&layout=compact&theme=default" height="170" />
-  <img src="https://streak-stats.demolab.com?user=jay-lay-down&theme=default&date_format=%5BY.%5Dn.j&hide_border=true&cache_seconds=86400" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=jay-lay-down&theme=default&date_format=%5BY.%5Dn.j&hide_border=true&cache_seconds=86400&v=2" alt="GitHub Streak" />
 </p>
 
 ### 📌 Pinned Projects
