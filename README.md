@@ -43,15 +43,15 @@
 ### 📌 Pinned Projects
 <p align="center">
   <a href="https://github.com/jay-lay-down/jay-chatbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jiheecho&repo=YourRepo1&show_owner=true&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jay-lay-down&repo=jay-chatbot&show_owner=true&hide_border=true" />
   </a>
   <a href="https://github.com/jay-lay-down/jay-bayesian_dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jiheecho&repo=YourRepo2&show_owner=true&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jay-lay-down&repo=jay-bayesian_dashboard&show_owner=true&hide_border=true" />
   </a>
 </p>
+
 ---
 <h2 align="center">📌 프로젝트 하이라이트</h2>
-
 ---
 
 ### 🤖 AI/LLM 기반 분석 챗봇
