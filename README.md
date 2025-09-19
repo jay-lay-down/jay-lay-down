@@ -43,13 +43,13 @@
 ### 📌 Pinned Projects
 <p align="center">
   <a href="https://github.com/jay-lay-down/jay-chatbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jay-lay-down&repo=jay-chatbot&show_owner=true&hide_border=true&v=2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jay-lay-down&repo=jay-chatbot&show_owner=true&hide_border=true&v=3" />
   </a>&nbsp;&nbsp;
   <a href="https://github.com/jay-lay-down/bayesian_dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jay-lay-down&repo=bayesian_dashboard&show_owner=true&hide_border=true&v=2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jay-lay-down&repo=bayesian_dashboard&show_owner=true&hide_border=true&v=3" />
   </a>&nbsp;&nbsp;
   <a href="https://github.com/jay-lay-down/demand_forecasting">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jay-lay-down&repo=demand_forecasting&show_owner=true&hide_border=true&v=2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jay-lay-down&repo=demand_forecasting&show_owner=true&hide_border=true&v=3" />
   </a>
 </p>
 
