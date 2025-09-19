@@ -45,24 +45,24 @@
   <tr>
     <td style="background:#ffffff;padding:8px;border-radius:10px;">
       <a href="https://github.com/jay-lay-down/jay-chatbot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jay-lay-down&repo=jay-chatbot&hide_border=true&bg_color=ffffff&border_color=dddddd&v=5" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jay-lay-down&repo=jay-chatbot&hide_border=true&bg_color=ffffff&border_color=dddddd&v=6" />
       </a>
     </td>
     <td style="background:#ffffff;padding:8px;border-radius:10px;">
       <a href="https://github.com/jay-lay-down/bayesian_dashboard">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jay-lay-down&repo=bayesian_dashboard&hide_border=true&bg_color=ffffff&border_color=dddddd&v=5" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jay-lay-down&repo=bayesian_dashboard&hide_border=true&bg_color=ffffff&border_color=dddddd&v=6" />
       </a>
     </td>
   </tr>
   <tr>
     <td style="background:#ffffff;padding:8px;border-radius:10px;">
       <a href="https://github.com/jay-lay-down/demand_forecasting">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jay-lay-down&repo=demand_forecasting&hide_border=true&bg_color=ffffff&border_color=dddddd&v=5" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jay-lay-down&repo=demand_forecasting&hide_border=true&bg_color=ffffff&border_color=dddddd&v=6" />
       </a>
     </td>
     <td style="background:#ffffff;padding:8px;border-radius:10px;">
       <a href="https://github.com/jay-lay-down/bayesian_norm">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jay-lay-down&repo=bayesian_norm&hide_border=true&bg_color=ffffff&border_color=dddddd&v=5" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jay-lay-down&repo=bayesian_norm&hide_border=true&bg_color=ffffff&border_color=dddddd&v=6" />
       </a>
     </td>
   </tr>
