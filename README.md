@@ -41,33 +41,32 @@
 </p>
 
 ### 📌 Pinned Projects
-<table align="center" style="background:#ffffff; border-collapse:separate; border-spacing:10px;">
+<table align="center" style="background:#ffffff;border-collapse:separate;border-spacing:10px;">
   <tr>
-    <td style="background:#ffffff; padding:8px; border-radius:10px;">
+    <td style="background:#ffffff;padding:8px;border-radius:10px;">
       <a href="https://github.com/jay-lay-down/jay-chatbot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jay-lay-down&repo=jay-chatbot&hide_border=true&v=4" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jay-lay-down&repo=jay-chatbot&hide_border=true&bg_color=ffffff&border_color=dddddd&v=5" />
       </a>
     </td>
-    <td style="background:#ffffff; padding:8px; border-radius:10px;">
+    <td style="background:#ffffff;padding:8px;border-radius:10px;">
       <a href="https://github.com/jay-lay-down/bayesian_dashboard">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jay-lay-down&repo=bayesian_dashboard&hide_border=true&v=4" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jay-lay-down&repo=bayesian_dashboard&hide_border=true&bg_color=ffffff&border_color=dddddd&v=5" />
       </a>
     </td>
   </tr>
   <tr>
-    <td style="background:#ffffff; padding:8px; border-radius:10px;">
+    <td style="background:#ffffff;padding:8px;border-radius:10px;">
       <a href="https://github.com/jay-lay-down/demand_forecasting">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jay-lay-down&repo=demand_forecasting&hide_border=true&v=4" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jay-lay-down&repo=demand_forecasting&hide_border=true&bg_color=ffffff&border_color=dddddd&v=5" />
       </a>
     </td>
-    <td style="background:#ffffff; padding:8px; border-radius:10px;">
+    <td style="background:#ffffff;padding:8px;border-radius:10px;">
       <a href="https://github.com/jay-lay-down/bayesian_norm">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jay-lay-down&repo=bayesian_norm&hide_border=true&v=4" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jay-lay-down&repo=bayesian_norm&hide_border=true&bg_color=ffffff&border_color=dddddd&v=5" />
       </a>
     </td>
   </tr>
 </table>
-
 
 ---
 <h2 align="center">📒 Projects</h2>
