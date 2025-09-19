@@ -14,8 +14,8 @@
 
 ### 🔑 Core Competencies
 <p align="center">
-  📊 정성+정량 데이터 융합 &nbsp;|&nbsp; 🧠 Bayesian 모델링·대시보드 &nbsp;|&nbsp; 🤖 AI/LLM 응용
-  &nbsp;|&nbsp; <br/> 📈 비즈니스 인사이트 연결 &nbsp;|&nbsp; 🤝 글로벌 협업 &nbsp;|&nbsp; 🧩 프롬프트 엔지니어링
+  📊 Integrating Qualitative & Quantitative Data &nbsp;|&nbsp; 🧠 Bayesian Modeling & Dashboards &nbsp;|&nbsp; 🤖 AI/LLM Applications
+  &nbsp;|&nbsp; <br/> 📈 Driving Business Insights &nbsp;|&nbsp; 🤝 Global Collaboration &nbsp;|&nbsp; 🧩 Prompt Engineering
 </p>
 
 ### 🧰 Skills
@@ -56,9 +56,9 @@
 ---
 <h2 align="center">📌 Projects</h2>
 
-### 🤖 AI/LLM 기반 분석 챗봇
-SOLAR(huggingface) + QLoRA 적용, **개인 말투 챗봇 개발**
-
+### 🤖 AI/LLM-powered Analytics Chatbot
+Fine-tuned SOLAR (Hugging Face) with QLoRA to create a chatbot that captures my personal tone and nuances, tailored for analytics workflows.
+**Tech stack:** Python · PyTorch · Transformers · QLoRA · bitsandbytes · Hugging Face Hub · FastAPI/Gradio
 <p align="center">
   <a href="https://github.com/jay-lay-down/jay-chatbot">
     <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -69,9 +69,10 @@ SOLAR(huggingface) + QLoRA 적용, **개인 말투 챗봇 개발**
 </p>
 
 ---
-### 🌐 Bayesian 모델링 & 대시보드 
-‘선호→추천→의도→구매’ 전환율을 위계적 베이지안으로 추정. 제품 투자 우선순위를 뽑아 매출 전환 최적화에 활용
-(대시보드 서버 오류. Git 내 이미지 참고)
+### 🌐 Bayesian Modeling & Dashboard
+Estimate the funnel **Preference → Recommendation → Intent → Purchase** via a hierarchical Bayesian model, then prioritize product investments to optimize revenue conversion.  
+**Tech stack:** Python · PyMC · ArviZ · pandas · NumPy · Plotly/Dash 
+*(Dashboard server currently offline; see images in the repo.)*
 <p align="center">
   <a href="https://github.com/jay-lay-down/bayesian_dashboard">
     <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -82,8 +83,9 @@ SOLAR(huggingface) + QLoRA 적용, **개인 말투 챗봇 개발**
 </p>
 
 ---
-### 📈 Bayesian norm을 사용한 브랜드 이미지 평가
-소셜 데이터 + 조사 데이터 결합, **데이터 증강 기반 인사이트 및 대시보드 구축**
+### 📈 Brand Image Evaluation with Bayesian Norms
+**Tech stack:** Python · pandas · scikit-learn · NLP (KoNLPy/spaCy) · PyMC · VBA
+Fuse **social data + survey data** to construct data-augmented insights and an interactive dashboard for brand imagery evaluation.
 
 <p align="center">
   <a href="https://github.com/jay-lay-down/bayesian_norm">
@@ -96,8 +98,9 @@ SOLAR(huggingface) + QLoRA 적용, **개인 말투 챗봇 개발**
 
 ---
 
-### 📊 수요 예측
-다양한 지표를 활용하여 향후 가전시장 수요 예측 정확도 제고를 통한 인사이트 제공
+### 📊 Demand Forecasting
+**Tech stack:** Python · pandas · scikit-learn · NLP (KoNLPy/spaCy) · PyMC · VBA****
+Improve forecasting accuracy for the **MDA market** by leveraging diverse indicators and translating results into business insights.
 
 <p align="center">
   <a href="https://github.com/jay-lay-down/demand_forecasting">
@@ -110,9 +113,9 @@ SOLAR(huggingface) + QLoRA 적용, **개인 말투 챗봇 개발**
 
 ---
 
-### ☑ Brandshare% 예측
-BrandShare와 같은 Sequence 단위 예측 + Softmax를 통한 최적화
-
+### ☑ Brand Share% Forecasting
+Sequence-level forecasting (e.g., **BrandShare**) with **Softmax-based** optimization across competing items.
+**Tech stack:** Python · TensorFlow/Keras · LSTM seq2seq · Additive Attention · pandas · NumPy
 <p align="center">
   <a href="https://github.com/jay-lay-down/seq2seq_softmax">
     <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -123,9 +126,9 @@ BrandShare와 같은 Sequence 단위 예측 + Softmax를 통한 최적화
 </p>
 
 ---
-### 👥 브랜드 파워 영향 요인 분석
-LPA를 통한 합성 지표+SEM 기반 **성과 Path 분석 & 전략 제안**
-
+### 👥  Drivers of Brand Power
+Identify key drivers using **LPA (Latent Profile Analysis)** and **SEM** to build performance **path analyses** and actionable strategy recommendations.
+**Tech stack:** R·Lavaan·LPA·mclust
 <p align="center">
   <a href="https://github.com/jay-lay-down/LPA_synthetic_vars">
     <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
