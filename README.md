@@ -140,8 +140,8 @@ Sequence-level forecasting (e.g., **BrandShare**) with **Softmax-based** optimiz
 </p>
 
 ---
-### 👥  Drivers of Brand Power
-Identify key drivers using **LPA (Latent Profile Analysis)** and **SEM** to build performance **path analyses** and actionable strategy recommendations.  
+### 👥  Drivers of Employee Engagement
+Identify key drivers using LPA (Latent Profile Analysis) to analyze engagement and attrition patterns and build actionable strategy recommendations.  
 **🧩Tech Stack:** R · lavaan · tidyLPA/mclust  t
 <p align="center">
   <a href="https://github.com/jay-lay-down/LPA_synthetic_vars">
