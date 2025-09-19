@@ -37,9 +37,18 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay-lay-down&layout=compact&theme=default" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api?username=jay-lay-down&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true" height="170" />
+  <img src="https://streak-stats.demolab.com?user=jiheecho&theme=default&date_format=%5BY.%5Dn.j&hide_border=true" alt="GitHub Streak" /> 
 </p>
 
+### 📌 Pinned Projects
+<p align="center">
+  <a href="https://github.com/jay-lay-down/jay-chatbot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jiheecho&repo=YourRepo1&show_owner=true&hide_border=true" />
+  </a>
+  <a href="https://github.com/jay-lay-down/jay-bayesian_dashboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jiheecho&repo=YourRepo2&show_owner=true&hide_border=true" />
+  </a>
+</p>
 ---
 <h2 align="center">📌 프로젝트 하이라이트</h2>
 
