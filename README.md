@@ -57,8 +57,8 @@
 <h2 align="center">📌 Projects</h2>
 
 ### 🤖 AI/LLM-powered Analytics Chatbot
-Fine-tuned SOLAR (Hugging Face) with QLoRA to create a chatbot that captures my personal tone and nuances, tailored for analytics workflows.
-**Tech stack:** Python · PyTorch · Transformers · QLoRA · bitsandbytes · Hugging Face Hub · FastAPI/Gradio
+** Fine-tuned **SOLAR (Hugging Face)** with **QLoRA** to create a chatbot that captures my personal tone and nuances for analytics workflows.  
+**🧩Tech Stack:** Python · PyTorch · Transformers · QLoRA · bitsandbytes · Hugging Face Hub · Gradio  
 <p align="center">
   <a href="https://github.com/jay-lay-down/jay-chatbot">
     <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -70,8 +70,8 @@ Fine-tuned SOLAR (Hugging Face) with QLoRA to create a chatbot that captures my 
 
 ---
 ### 🌐 Bayesian Modeling & Dashboard
-Estimate the funnel **Preference → Recommendation → Intent → Purchase** via a hierarchical Bayesian model, then prioritize product investments to optimize revenue conversion.  
-**Tech stack:** Python · PyMC · ArviZ · pandas · NumPy · Plotly/Dash 
+** Hierarchical Bayesian modeling of the funnel (**Preference → Recommendation → Intent → Purchase**) to prioritize product investments and optimize revenue conversion.  
+**🧩Tech Stack:** Python · PyMC · ArviZ · pandas · NumPy · Plotly/Dash  
 *(Dashboard server currently offline; see images in the repo.)*
 <p align="center">
   <a href="https://github.com/jay-lay-down/bayesian_dashboard">
@@ -84,8 +84,8 @@ Estimate the funnel **Preference → Recommendation → Intent → Purchase** vi
 
 ---
 ### 📈 Brand Image Evaluation with Bayesian Norms
-**Tech stack:** Python · pandas · scikit-learn · NLP (KoNLPy/spaCy) · PyMC · VBA
-Fuse **social data + survey data** to construct data-augmented insights and an interactive dashboard for brand imagery evaluation.
+** Fuse **social data + survey data** to generate data-augmented insights and an interactive dashboard for brand imagery evaluation.  
+**🧩Tech Stack:** Python · pandas · scikit-learn · NLP (KoNLPy/spaCy) · PyMC · VBA  
 
 <p align="center">
   <a href="https://github.com/jay-lay-down/bayesian_norm">
@@ -99,9 +99,9 @@ Fuse **social data + survey data** to construct data-augmented insights and an i
 ---
 
 ### 📊 Demand Forecasting
-**Tech stack:** Python · pandas · scikit-learn · NLP (KoNLPy/spaCy) · PyMC · VBA****
-Improve forecasting accuracy for the **MDA market** by leveraging diverse indicators and translating results into business insights.
-
+** Improve forecasting accuracy for the **MDA (Major Domestic Appliances) market** by leveraging diverse indicators and translating results into business insights.  
+**📈SARIMAX Pipeline (R):** forecast · caret · tseries · lmtest
+**📦 R Package Development:** R · devtools · usethis · roxygen2 · testthat
 <p align="center">
   <a href="https://github.com/jay-lay-down/demand_forecasting">
     <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -114,8 +114,8 @@ Improve forecasting accuracy for the **MDA market** by leveraging diverse indica
 ---
 
 ### ☑ Brand Share% Forecasting
-Sequence-level forecasting (e.g., **BrandShare**) with **Softmax-based** optimization across competing items.
-**Tech stack:** Python · TensorFlow/Keras · LSTM seq2seq · Additive Attention · pandas · NumPy
+** Sequence-level forecasting (e.g., **BrandShare**) with **Softmax-based** optimization across competing items.  
+**🧩Tech Stack:** Python · TensorFlow/Keras · LSTM seq2seq · Additive Attention · pandas · NumPy  
 <p align="center">
   <a href="https://github.com/jay-lay-down/seq2seq_softmax">
     <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -127,8 +127,8 @@ Sequence-level forecasting (e.g., **BrandShare**) with **Softmax-based** optimiz
 
 ---
 ### 👥  Drivers of Brand Power
-Identify key drivers using **LPA (Latent Profile Analysis)** and **SEM** to build performance **path analyses** and actionable strategy recommendations.
-**Tech stack:** R·Lavaan·LPA·mclust
+** Identify key drivers using **LPA (Latent Profile Analysis)** and **SEM** to build performance **path analyses** and actionable strategy recommendations.  
+**🧩Tech Stack:** R · lavaan · tidyLPA/mclust  t
 <p align="center">
   <a href="https://github.com/jay-lay-down/LPA_synthetic_vars">
     <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -143,7 +143,7 @@ Identify key drivers using **LPA (Latent Profile Analysis)** and **SEM** to buil
 ### 🔢 기타 프로젝트 포트폴리오
 <p align="center">
   <a href="https://github.com/jay-lay-down/jay-lay-down/blob/main/assets/Example_projects.pdf">
-    <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+    <img src="https://img.shields.io/badge/Slides-6B7280?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" />
   </a>
 </p>
 
