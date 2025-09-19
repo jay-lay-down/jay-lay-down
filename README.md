@@ -108,7 +108,7 @@ Fuse **social data + survey data** to generate data-augmented insights and an in
   <a href="https://velog.io/@jaylaydown/BayesianAdjectiveNorm">
     <img src="https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=velog&logoColor=white" />
   </a>
-  <a href="https://jay1121-bayesian-dashboard.hf.space">
+  <a href="https://github.com/jay-lay-down/bayesian_norm/blob/main/assets/bayesian_norm_fin.xlsm">
     <img src="https://img.shields.io/badge/Dashboard-2DD4BF?style=for-the-badge&logo=tableau&logoColor=white" />
   </a>
 </p>
