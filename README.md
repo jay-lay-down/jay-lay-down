@@ -87,12 +87,11 @@ Fine-tuned **SOLAR (Hugging Face)** with **QLoRA** to create a chatbot that capt
 ### 🌐 Bayesian Modeling & Dashboard
 Hierarchical Bayesian modeling of the funnel (**Preference → Recommendation → Intent → Purchase**) to prioritize product investments and optimize revenue conversion.  
 **🧩Tech Stack:** Python · PyMC · ArviZ · pandas · NumPy · Plotly/Dash  
-*(Dashboard server currently offline; see images in the repo.)*
 <p align="center">
   <a href="https://github.com/jay-lay-down/bayesian_dashboard">
     <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://...">
+  <a href="https://jay1121-bayesian-dashboard.hf.space">
     <img src="https://img.shields.io/badge/Dashboard-2DD4BF?style=for-the-badge&logo=tableau&logoColor=white" />
   </a>
 </p>
