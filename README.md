@@ -54,7 +54,7 @@
 </p>
 
 ---
-<h2 align="center">📌 Projects</h2>
+<h2 align="center">📒 Projects</h2>
 
 ### 🤖 AI/LLM-powered Analytics Chatbot
 Fine-tuned **SOLAR (Hugging Face)** with **QLoRA** to create a chatbot that captures my personal tone and nuances for analytics workflows.  
