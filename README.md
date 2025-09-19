@@ -41,33 +41,33 @@
 </p>
 
 ### 📌 Pinned Projects
-<!-- Custom Pinned Projects (2x2 grid) -->
-<table align="center">
+<table align="center" style="background:#ffffff; border-collapse:separate; border-spacing:10px;">
   <tr>
-    <td>
+    <td style="background:#ffffff; padding:8px; border-radius:10px;">
       <a href="https://github.com/jay-lay-down/jay-chatbot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jay-lay-down&repo=jay-chatbot&hide_border=true&v=3" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jay-lay-down&repo=jay-chatbot&hide_border=true&v=4" />
       </a>
     </td>
-    <td>
+    <td style="background:#ffffff; padding:8px; border-radius:10px;">
       <a href="https://github.com/jay-lay-down/bayesian_dashboard">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jay-lay-down&repo=bayesian_dashboard&hide_border=true&v=3" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jay-lay-down&repo=bayesian_dashboard&hide_border=true&v=4" />
       </a>
     </td>
   </tr>
   <tr>
-    <td>
+    <td style="background:#ffffff; padding:8px; border-radius:10px;">
       <a href="https://github.com/jay-lay-down/demand_forecasting">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jay-lay-down&repo=demand_forecasting&hide_border=true&v=3" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jay-lay-down&repo=demand_forecasting&hide_border=true&v=4" />
       </a>
     </td>
-    <td>
+    <td style="background:#ffffff; padding:8px; border-radius:10px;">
       <a href="https://github.com/jay-lay-down/bayesian_norm">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jay-lay-down&repo=bayesian_norm&hide_border=true&v=3" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jay-lay-down&repo=bayesian_norm&hide_border=true&v=4" />
       </a>
     </td>
   </tr>
 </table>
+
 
 ---
 <h2 align="center">📒 Projects</h2>
