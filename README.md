@@ -54,8 +54,7 @@
 </p>
 
 ---
-<h2 align="center">📌 프로젝트 하이라이트</h2>
----
+<h2 align="center">📌 Projects</h2>
 
 ### 🤖 AI/LLM 기반 분석 챗봇
 SOLAR(huggingface) + QLoRA 적용, **개인 말투 챗봇 개발**
