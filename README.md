@@ -1,4 +1,4 @@
-## 👋 Hi There!
+## 👋 Portfolio - Jihee Cho
 <p align="center">
     <img src="https://github.com/jay-lay-down/jay-lay-down/blob/main/assets/image_2.jpg" alt="Header image">
   </a>
