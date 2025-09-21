@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white&style=for-the-badge" style="margin:4px 6px;" />
   <img src="https://img.shields.io/badge/PowerPoint-B7472A?logo=microsoftpowerpoint&logoColor=white&style=for-the-badge" style="margin:4px 6px;" />
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black&style=for-the-badge" style="margin:4px 6px;" />
+    <img src="https://img.shields.io/badge/SPSS-0066CC?logo=ibm&logoColor=white&style=for-the-badge" style="margin:4px 6px;" />
 </p>
 
 ### 💻 GitHub Overview
