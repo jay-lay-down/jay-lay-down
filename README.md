@@ -71,7 +71,7 @@
 <h2 align="center">📒 Projects</h2>
 
 ### 🤖 AI/LLM-powered Analytics Chatbot
-SOLAR (Hugging Face) 모델을 QLoRA로 파인튜닝하여 개인의 말투와 뉘앙스를 반영한 분석 워크플로우용 챗봇 개발. 
+SOLAR (Hugging Face) 모델을 QLoRA로 파인튜닝하여 개인의 말투와 뉘앙스를 반영한 분석 워크플로우용 챗봇 개발\
 **🧩Tech Stack:** Python · PyTorch · Transformers · QLoRA · bitsandbytes · Hugging Face Hub · Gradio  
 <p align="center">
   <a href="https://github.com/jay-lay-down/jay-chatbot">
@@ -84,7 +84,7 @@ SOLAR (Hugging Face) 모델을 QLoRA로 파인튜닝하여 개인의 말투와 �
 
 ---
 ### 🌐 Bayesian Modeling & Dashboard
-계층적 베이지안 모델링을 통해 선호 → 추천 → 구매의도 → 구매 단계 전환율을 분석, 제품 투자 우선순위와 매출 최적화 지원  
+계층적 베이지안 모델링을 통해 선호 → 추천 → 구매의도 → 구매 단계 전환율을 분석, 제품 투자 우선순위와 매출 최적화 지원\
 **🧩Tech Stack:** Python · PyMC · ArviZ · pandas · NumPy · Plotly/Dash  
 ** After clicking the dashboard icon, click “LOAD” in the top-right to view the dashboard.
 <p align="center">
@@ -98,7 +98,7 @@ SOLAR (Hugging Face) 모델을 QLoRA로 파인튜닝하여 개인의 말투와 �
 
 ---
 ### 📈 Brand Image Evaluation with Bayesian Norms
-소셜 데이터 + 설문 데이터를 결합하여 데이터 증강 기반 인사이트를 도출하고, 브랜드 이미지 평가용 대시보드 제작 
+소셜 데이터 + 설문 데이터를 결합하여 데이터 증강 기반 인사이트를 도출하고, 브랜드 이미지 평가용 대시보드 제작\ 
 **🧩Tech Stack:** Python · pandas · scikit-learn · NLP (KoNLPy/spaCy) · PyMC · VBA  
 <p align="center">
   <a href="https://github.com/jay-lay-down/bayesian_norm">
@@ -115,7 +115,7 @@ SOLAR (Hugging Face) 모델을 QLoRA로 파인튜닝하여 개인의 말투와 �
 ---
 
 ### 📊 Demand Forecasting
-MDA(주요 가전제품) 시장의 다양한 지표를 활용해 수요 예측 정확도를 개선하고 비즈니스 인사이트로 연결 
+MDA(주요 가전제품) 시장의 다양한 지표를 활용해 수요 예측 정확도를 개선하고 비즈니스 인사이트로 연결\ 
 **📈SARIMAX Pipeline (R):** forecast · caret · tseries · lmtest
 **📦 R Package Development:** R · devtools · usethis · roxygen2 · testthat
 <p align="center">
@@ -130,7 +130,7 @@ MDA(주요 가전제품) 시장의 다양한 지표를 활용해 수요 예측 �
 ---
 
 ### ☑ Brand Share% Forecasting
-경쟁 브랜드 간 시퀀스 기반 점유율 예측을 위해 Softmax 기반 최적화와 seq2seq LSTM 모델 적용 
+경쟁 브랜드 간 시퀀스 기반 점유율 예측을 위해 Softmax 기반 최적화와 seq2seq LSTM 모델 적용\ 
 **🧩Tech Stack:** Python · TensorFlow/Keras · LSTM seq2seq · Additive Attention · pandas · NumPy  
 <p align="center">
   <a href="https://github.com/jay-lay-down/seq2seq_softmax">
@@ -140,8 +140,8 @@ MDA(주요 가전제품) 시장의 다양한 지표를 활용해 수요 예측 �
 
 ---
 ### 👥  Drivers of Employee Engagement
-LPA(Latent Profile Analysis)를 활용해 직원 몰입도 및 이직 패턴을 분석하고, Segmentation화 하여 실행 가능한 전략적 권고안 도출 
-**🧩Tech Stack:** R · lavaan · tidyLPA/mclust  t
+LPA(Latent Profile Analysis)를 활용해 직원 몰입도 및 이직 패턴을 분석하고, Segmentation화 하여 실행 가능한 전략적 권고안 도출\ 
+**🧩Tech Stack:** R · lavaan · tidyLPA/mclust  
 <p align="center">
   <a href="https://github.com/jay-lay-down/LPA_synthetic_vars">
     <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
