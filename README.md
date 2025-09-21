@@ -86,7 +86,7 @@ SOLAR (Hugging Face) 모델을 QLoRA로 파인튜닝하여 개인의 말투와 �
 ---
 ### 🌐 Bayesian Modeling & Dashboard
 계층적 베이지안 모델링을 통해 선호 → 추천 → 구매의도 → 구매 단계 전환율을 분석, 제품 투자 우선순위와 매출 최적화 지원\
-(** Dashboard 아이콘 클릭 후, 우측 상단의 Load 클릭하면 자세한 대시보드 내용 확인 가능합니다.)
+(** Dashboard 아이콘 클릭 후, 우측 상단의 Load 클릭하면 자세한 대시보드 내용 확인 가능합니다.)\
 **🧩Tech Stack:** Python · PyMC · ArviZ · pandas · NumPy · Plotly/Dash\
 **🍏성과:** 설문조사 결과를 단순 긍·부정이 아닌 불확실성 기반 해석으로 변환하여, 의사결정의 신뢰도 및 실행력 강화
 <p align="center">
