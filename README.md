@@ -15,7 +15,7 @@
 ### 🔑 Core Competencies
 <p align="center">
   📊 정성/정량 데이터 통합 &nbsp;|&nbsp; 🧠 베이지안 모델링 및 대시보드 구축 &nbsp;|&nbsp; 🤖 AI/LLM 응용
-  &nbsp;|&nbsp; <br/> 📈 비즈니스 인사이트 도출 &nbsp;|&nbsp;  &nbsp;|&nbsp; 🧩 Prompt Engineering 🤝글로벌 고객사와 협업 
+  &nbsp;|&nbsp; <br/> 📈 비즈니스 인사이트 도출 &nbsp;|&nbsp; 🧩 Prompt Engineering &nbsp;|&nbsp;  🤝글로벌 고객사와 협업 
 </p>
 
 ### 🧰 Skills
