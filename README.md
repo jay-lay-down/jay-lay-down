@@ -38,9 +38,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay-lay-down&layout=compact&theme=default" height="170" />
   <img src="https://streak-stats.demolab.com?user=jay-lay-down&theme=default&date_format=%5BY.%5Dn.j&hide_border=true&cache_seconds=86400&v=2" alt="GitHub Streak" />
- [![LeetCode Stats](https://leetcard.jacoblin.cool/jiheecho?theme=light&font=Karla&ext=heatmap)](https://leetcode.com/jiheecho)
-
 </p>
+[![LeetCode Stats](https://leetcard.jacoblin.cool/jiheecho?theme=light&font=Karla&ext=heatmap)](https://leetcode.com/jiheecho)
 
 ### 📌 Pinned Projects
 <table align="center" style="background:#ffffff;border-collapse:separate;border-spacing:10px;">
