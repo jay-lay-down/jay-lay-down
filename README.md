@@ -79,11 +79,21 @@
 <h2 align="center">📒 Projects</h2>
 
 ### 🤖 AI/LLM-powered Analytics Chatbot
-SOLAR (Hugging Face) 모델을 QLoRA로 파인튜닝하여 개인의 말투와 뉘앙스를 반영한 분석 워크플로우용 챗봇 개발\
+👿 AI assistant? No. I'm your childhood friend who just happens to live in GPU (LLM 모델 학습 및 파인튜닝을 통한 개인의 페르소나/뉘앙스 반영 챗봇 개발) \
 **🧩Tech Stack:** Python · PyTorch · Transformers · QLoRA · bitsandbytes · Hugging Face Hub · Gradio\
-**🍏성과:** 언어의 뉘앙스까지 파인튜닝 가능하며, API 비용 없이도 운영 가능해 비용 절감 효과 확인 (→ 추후 고객사 맞춤 챗봇 개발 확장 가능)
+**🍏Project Impact:**
+정교한 페르소나 주입: 1.5B 소형 모델의 한계를 극복하고, 특정 페르소나를 이식하는 소형 LLM 학습 & 파인튜닝
+SLM(소형언어모델) 최적화: 1.5B 모델을 경량화(Quantization)하여 GPU 리소스가 제한된 환경에서도 구동 가능하도록 최적화.
+비용 효율성 확보: 상용 API(GPT-4 등) 의존 없이 자체 호스팅이 가능하여, 트래픽 증가에 따른 운영 비용을 '0원'으로 절감.
+**🍏Key Takeaways:**
+Custom Chatbot 솔루션: 특정 캐릭터나 브랜드 보이스(Tone & Manner)를 AI에 입히는 파인튜닝 파이프라인 구축.
+운영 비용 절감: 토큰당 과금되는 API 방식이 아닌, 자체 모델 운영을 통해 장기적인 비용 절감 효과 입증.
+확장 가능성: 엔터테인먼트, 게임 NPC, 퍼스널 봇 등 고객사 니즈에 맞춘 '맞춤형 AI' 개발 가능성 확인.
+
+[🤬 친구와 채팅하러 가기_비용무료](http://www.duboobanmo.site)
+
 <p align="center">
-  <a href="https://github.com/jay-lay-down/jay-chatbot">
+  <a href="https://github.com/jay-lay-down/jaychatbot_2nd">
     <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://velog.io/@jaylaydown/series/side-project-1">
