@@ -185,6 +185,55 @@ LPA(Latent Profile Analysis)를 활용해 직원 몰입도 및 이직 패턴을 
   </a>
 </p>
 
+
+---
+### 🐾  Social Animal Type Test (Metacognition & Situation Reading)
+메타인지 + 상황 판단 패턴을 기반으로, 실제 사회생활 속 반응을 11가지 ‘사회적 동물’ 유형으로 시각화한 재미용 웹 테스트. 설문 설계–점수 구조–타입 매핑–UI/UX–배포까지 end-to-end로 구현해, 사용자의 **“내가 생각하는 나 vs 실제 상황에서의 나”** 간 갭을 확인할 수 있도록 설계.\
+**🧩Tech Stack:** Python · Gradio · HTML/CSS · Hugging Face Spaces\
+**🍏성과:** 커스텀 채점 알고리즘과 반응형 웹 UI를 구축하고, 독자 도메인(myanimaltest.site)과 연동해 실제 사용자 응답을 수집·분석 가능한 실서비스 형태로 운영.
+
+<p align="center">
+  <a href="https://github.com/jay-lay-down/animal_test">
+    <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://myanimaltest.site/">
+    <img src="https://img.shields.io/badge/Demo-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://huggingface.co/spaces/Jay1121/animal_test">
+    <img src="https://img.shields.io/badge/Space-FFCC4D?style=for-the-badge&logo=huggingface&logoColor=black" />
+  </a>
+  <a href="https://velog.io/@jaylaydown/%EB%82%98%EB%A7%8C%EC%9D%98-%EC%8B%AC%EB%A6%AC-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EB%8F%99%EB%AC%BC-%EC%9C%A0%ED%98%95-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8">
+    <img src="https://img.shields.io/badge/Blog-3B82F6?style=for-the-badge&logo=mdbook&logoColor=white" />
+  </a>
+</p>
+
+
+---
+### 🐾  Auto Segment Tool – Desktop Application (EXE)
+데이터 로딩 → 요인분석(PCA) → 결정트리 기반 세그멘테이션 → 시각화 & Excel 자동 리포트를 GUI 기반으로 클릭 몇 번에 끝낼 수 있도록 만든 엔드-투-엔드 분석 자동화 프로그램입니다. \
+**🧩Tech Stack:** Python · PySide6 · Scikit-learn · Pandas · Excel Automation · PyInstaller\
+**🍏 Features**
+- Raw 데이터 → 자동 정제 및 Factor Labeling
+- PCA 설정 및 요인 결과 저장
+- 의사결정나무 기반 Segment 생성/라벨링
+- 결과 리포트 Excel 자동 생성
+- 배포형 EXE로 설치 없이 실행 가능
+
+<p align="center">
+  <a href="https://github.com/jay-lay-down/animal_test">
+    <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://myanimaltest.site/">
+    <img src="https://img.shields.io/badge/Demo-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://huggingface.co/spaces/Jay1121/animal_test">
+    <img src="https://img.shields.io/badge/Space-FFCC4D?style=for-the-badge&logo=huggingface&logoColor=black" />
+  </a>
+  <a href="https://velog.io/@jaylaydown/%EB%82%98%EB%A7%8C%EC%9D%98-%EC%8B%AC%EB%A6%AC-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EB%8F%99%EB%AC%BC-%EC%9C%A0%ED%98%95-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8">
+    <img src="https://img.shields.io/badge/Blog-3B82F6?style=for-the-badge&logo=mdbook&logoColor=white" />
+  </a>
+</p>
+
 ---
 ### 🔢 Other Projects
 다양한 프로젝트 슬라이드 자료 포함 (소셜마이닝/제안서 작성)
