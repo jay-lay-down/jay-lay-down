@@ -103,6 +103,55 @@ Custom Chatbot 솔루션: 특정 캐릭터나 브랜드 보이스(Tone & Manner)
 </p>
 
 ---
+### 🐾 Social Animal Type Test (Metacognition & Situation Reading)
+메타인지 + 상황 판단 패턴을 기반으로, 실제 사회생활 속 반응을 11가지 ‘사회적 동물’ 유형으로 시각화한 재미용 웹 테스트. 설문 설계–점수 구조–타입 매핑–UI/UX–배포까지 end-to-end로 구현해, 사용자의 **“내가 생각하는 나 vs 실제 상황에서의 나”** 간 갭을 확인할 수 있도록 설계.\
+**🧩Tech Stack:** Python · Gradio · HTML/CSS · Hugging Face Spaces\
+**🍏성과:** 커스텀 채점 알고리즘과 반응형 웹 UI를 구축하고, 독자 도메인(myanimaltest.site)과 연동해 실제 사용자 응답을 수집·분석 가능한 실서비스 형태로 운영.
+
+<p align="center">
+  <a href="https://github.com/jay-lay-down/animal_test">
+    <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://myanimaltest.site/">
+    <img src="https://img.shields.io/badge/Demo-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://huggingface.co/spaces/Jay1121/animal_test">
+    <img src="https://img.shields.io/badge/Space-FFCC4D?style=for-the-badge&logo=huggingface&logoColor=black" />
+  </a>
+  <a href="https://velog.io/@jaylaydown/%EB%82%98%EB%A7%8C%EC%9D%98-%EC%8B%AC%EB%A6%AC-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EB%8F%99%EB%AC%BC-%EC%9C%A0%ED%98%95-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8">
+    <img src="https://img.shields.io/badge/Blog-3B82F6?style=for-the-badge&logo=mdbook&logoColor=white" />
+  </a>
+</p>
+
+
+---
+### 🔧  Auto Segment Tool – Desktop Application (EXE)
+데이터 로딩 → 요인분석(PCA) → 결정트리 기반 세그멘테이션 → 시각화 & Excel 자동 리포트를 GUI 기반으로 클릭 몇 번에 끝낼 수 있도록 만든 엔드-투-엔드 분석 자동화 프로그램입니다. \
+**🧩Tech Stack:** Python · PySide6 · Scikit-learn · Pandas · Excel Automation · PyInstaller\
+**🍏 Features**
+- Raw 데이터 → 자동 정제 및 Factor Labeling
+- PCA 설정 및 요인 결과 저장
+- 의사결정나무 기반 Segment 생성/라벨링
+- 결과 리포트 Excel 자동 생성
+- 배포형 EXE로 설치 없이 실행 가능
+
+<p align="center">
+  <a href="https://github.com/jay-lay-down/auto_segment/tree/main">
+    <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://myanimaltest.site/">
+    <img src="https://img.shields.io/badge/Demo-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://huggingface.co/spaces/Jay1121/animal_test">
+    <img src="https://img.shields.io/badge/Space-FFCC4D?style=for-the-badge&logo=huggingface&logoColor=black" />
+  </a>
+  <a href="https://velog.io/@jaylaydown/%EB%82%98%EB%A7%8C%EC%9D%98-%EC%8B%AC%EB%A6%AC-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EB%8F%99%EB%AC%BC-%EC%9C%A0%ED%98%95-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8">
+    <img src="https://img.shields.io/badge/Blog-3B82F6?style=for-the-badge&logo=mdbook&logoColor=white" />
+  </a>
+</p>
+
+
+---
 ### 🌐 Bayesian Modeling & Dashboard
 계층적 베이지안 모델링을 통해 선호 → 추천 → 구매의도 → 구매 단계 전환율을 분석, 제품 투자 우선순위와 매출 최적화 지원\
 (** Dashboard 아이콘 클릭 후, 우측 상단의 Load 클릭하면 자세한 대시보드 내용 확인 가능합니다.)\
@@ -135,7 +184,6 @@ Custom Chatbot 솔루션: 특정 캐릭터나 브랜드 보이스(Tone & Manner)
 </p>
 
 ---
-
 ### 📊 Demand Forecasting
 MDA(주요 가전제품) 시장의 다양한 지표를 활용해 수요 예측 정확도를 개선하고 비즈니스 인사이트로 연결\
 **📈SARIMAX Pipeline (R):** forecast · caret · tseries · lmtest\
@@ -151,7 +199,6 @@ MDA(주요 가전제품) 시장의 다양한 지표를 활용해 수요 예측 �
 </p>
 
 ---
-
 ### ☑ Brand Share% Forecasting
 경쟁 브랜드 간 시퀀스 기반 점유율 예측을 위해 Softmax 기반 최적화와 seq2seq LSTM 모델 적용\
 **🧩Tech Stack:** Python · TensorFlow/Keras · LSTM seq2seq · Additive Attention · pandas · NumPy  
@@ -172,55 +219,6 @@ LPA(Latent Profile Analysis)를 활용해 직원 몰입도 및 이직 패턴을 
   </a>
   <a href="https://github.com/jay-lay-down/LPA_synthetic_vars/blob/main/assets/LPA_example.pdf">
     <img src="https://img.shields.io/badge/Slides-6B7280?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" />
-  </a>
-</p>
-
----
-### 🐾 Social Animal Type Test (Metacognition & Situation Reading)
-메타인지 + 상황 판단 패턴을 기반으로, 실제 사회생활 속 반응을 11가지 ‘사회적 동물’ 유형으로 시각화한 재미용 웹 테스트. 설문 설계–점수 구조–타입 매핑–UI/UX–배포까지 end-to-end로 구현해, 사용자의 **“내가 생각하는 나 vs 실제 상황에서의 나”** 간 갭을 확인할 수 있도록 설계.\
-**🧩Tech Stack:** Python · Gradio · HTML/CSS · Hugging Face Spaces\
-**🍏성과:** 커스텀 채점 알고리즘과 반응형 웹 UI를 구축하고, 독자 도메인(myanimaltest.site)과 연동해 실제 사용자 응답을 수집·분석 가능한 실서비스 형태로 운영.
-
-<p align="center">
-  <a href="https://github.com/jay-lay-down/animal_test">
-    <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://myanimaltest.site/">
-    <img src="https://img.shields.io/badge/Demo-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://huggingface.co/spaces/Jay1121/animal_test">
-    <img src="https://img.shields.io/badge/Space-FFCC4D?style=for-the-badge&logo=huggingface&logoColor=black" />
-  </a>
-  <a href="https://velog.io/@jaylaydown/%EB%82%98%EB%A7%8C%EC%9D%98-%EC%8B%AC%EB%A6%AC-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EB%8F%99%EB%AC%BC-%EC%9C%A0%ED%98%95-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8">
-    <img src="https://img.shields.io/badge/Blog-3B82F6?style=for-the-badge&logo=mdbook&logoColor=white" />
-  </a>
-</p>
-
-
----
-
-### 🔧  Auto Segment Tool – Desktop Application (EXE)
-데이터 로딩 → 요인분석(PCA) → 결정트리 기반 세그멘테이션 → 시각화 & Excel 자동 리포트를 GUI 기반으로 클릭 몇 번에 끝낼 수 있도록 만든 엔드-투-엔드 분석 자동화 프로그램입니다. \
-**🧩Tech Stack:** Python · PySide6 · Scikit-learn · Pandas · Excel Automation · PyInstaller\
-**🍏 Features**
-- Raw 데이터 → 자동 정제 및 Factor Labeling
-- PCA 설정 및 요인 결과 저장
-- 의사결정나무 기반 Segment 생성/라벨링
-- 결과 리포트 Excel 자동 생성
-- 배포형 EXE로 설치 없이 실행 가능
-
-<p align="center">
-  <a href="https://github.com/jay-lay-down/auto_segment/tree/main">
-    <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://myanimaltest.site/">
-    <img src="https://img.shields.io/badge/Demo-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://huggingface.co/spaces/Jay1121/animal_test">
-    <img src="https://img.shields.io/badge/Space-FFCC4D?style=for-the-badge&logo=huggingface&logoColor=black" />
-  </a>
-  <a href="https://velog.io/@jaylaydown/%EB%82%98%EB%A7%8C%EC%9D%98-%EC%8B%AC%EB%A6%AC-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EB%8F%99%EB%AC%BC-%EC%9C%A0%ED%98%95-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8">
-    <img src="https://img.shields.io/badge/Blog-3B82F6?style=for-the-badge&logo=mdbook&logoColor=white" />
   </a>
 </p>
 
