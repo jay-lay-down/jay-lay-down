@@ -79,7 +79,7 @@
 <h2 align="center">📒 Projects</h2>
 
 ### 🤖 AI/LLM-powered Analytics Chatbot
-👿 AI assistant? No. I'm your childhood friend who just happens to live in GPU (LLM 모델 학습 및 파인튜닝을 통한 개인의 페르소나/뉘앙스 반영 챗봇 개발) \
+👿 AI assistant? No. I'm your childhood friend who just happens to live in GPU \
 **🧩Tech Stack:** Python · PyTorch · Transformers · QLoRA · bitsandbytes · Hugging Face Hub · Gradio\
 **🍏Project Impact:**\
 정교한 페르소나 주입: 1.5B 소형 모델의 한계를 극복하고, 특정 페르소나를 이식하는 소형 LLM 학습 & 파인튜닝\
