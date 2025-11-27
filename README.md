@@ -210,7 +210,7 @@ LPA(Latent Profile Analysis)를 활용해 직원 몰입도 및 이직 패턴을 
 - 배포형 EXE로 설치 없이 실행 가능
 
 <p align="center">
-  <a href="https://github.com/jay-lay-down/animal_test">
+  <a href="https://github.com/jay-lay-down/auto_segment/tree/main">
     <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://myanimaltest.site/">
