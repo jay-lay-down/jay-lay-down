@@ -134,22 +134,14 @@ Custom Chatbot 솔루션: 특정 캐릭터나 브랜드 보이스(Tone & Manner)
 - 의사결정나무 기반 Segment 생성/라벨링
 - 결과 리포트 Excel 자동 생성
 - 배포형 EXE로 설치 없이 실행 가능
-
 <p align="center">
-  <a href="https://github.com/jay-lay-down/auto_segment/tree/main">
+  <a href="https://github.com/jay-lay-down/bayesian_dashboard">
     <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://myanimaltest.site/">
-    <img src="https://img.shields.io/badge/Demo-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://huggingface.co/spaces/Jay1121/animal_test">
-    <img src="https://img.shields.io/badge/Space-FFCC4D?style=for-the-badge&logo=huggingface&logoColor=black" />
-  </a>
-  <a href="https://velog.io/@jaylaydown/%EB%82%98%EB%A7%8C%EC%9D%98-%EC%8B%AC%EB%A6%AC-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EB%8F%99%EB%AC%BC-%EC%9C%A0%ED%98%95-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8">
-    <img src="https://img.shields.io/badge/Blog-3B82F6?style=for-the-badge&logo=mdbook&logoColor=white" />
+  <a href="여기에_다운로드_링크_입력">
+    <img src="https://img.shields.io/badge/Download-App-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   </a>
 </p>
-
 
 ---
 ### 🌐 Bayesian Modeling & Dashboard
