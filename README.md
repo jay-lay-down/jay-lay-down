@@ -110,7 +110,7 @@ Custom Chatbot 솔루션: 특정 캐릭터나 브랜드 보이스(Tone & Manner)
   <a href="https://github.com/jay-lay-down/auto_segment">
     <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="여기에_다운로드_링크_입력">
+  <a href="https://drive.google.com/uc?id=1l6dMl6QHx7fJAeh8zL3xPIJX572mtnum&export=download">
     <img src="https://img.shields.io/badge/Download-App-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   </a>
 </p>
