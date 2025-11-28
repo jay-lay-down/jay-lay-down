@@ -107,7 +107,7 @@ Custom Chatbot 솔루션: 특정 캐릭터나 브랜드 보이스(Tone & Manner)
 - 결과 리포트 Excel 자동 생성
 - 배포형 EXE로 설치 없이 실행 가능
 <p align="center">
-  <a href="https://github.com/jay-lay-down/bayesian_dashboard">
+  <a href="https://github.com/jay-lay-down/auto_segment">
     <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="여기에_다운로드_링크_입력">
